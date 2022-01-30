@@ -16,7 +16,8 @@ layout: default
     {% endif %}
     {% if site.title %}
       <h2>
-        {{ site.description }}
+        {{ site.description }} <br>
+		Лекции проходят в <a href="https://theias.zoom.us/j/89395086714">зуме</a> по пятницам в 18:30
       </h2>
     {% endif %}
   </header>
@@ -28,7 +29,7 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+      Прошедшие заседания
     {% endif %}
   </h1>
 
