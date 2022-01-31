@@ -26,7 +26,7 @@ icon: /assets/images/icon-192.png
 
 # Build settings
 markdown: kramdown
-theme: hitchens-theme
+#theme: hitchens-theme
 ignore_theme_config: true
 
 # Exclude from processing.
