@@ -28,6 +28,8 @@ permalink: /intro
 
 + R. Brooks, C. Smith, A. Stone, W. Tutte, [The dissection of rectangles into squares](https://carlo-hamalainen.net/stuff/Brooks,%20Smith,%20Stone,%20Tutte%20-%20The%20dissection%20of%20rectangles%20into%20squares%20(1940).pdf). _Duke Mathematical Journal_ (1940).
 
++ Е. Смирнов, [Диаграммы Юнга, плоские разбиения и знакочередующиеся матрицы](https://users.mccme.ru/smirnoff/papers/dubna14.pdf). _МЦНМО_ (2014).
+
 + Е. Смирнов, [Три взгляда на ацтекский бриллиант](https://www.mccme.ru/free-books/dubna/smirnov-aztec.pdf), _МЦНМО_ (2015).
 
 + J. Humphreys, [Reflection groups and Coxeter groups](books.google.ru/books?id=ODfjmOeNLMUC). _Cambridge university press_ (1990).
