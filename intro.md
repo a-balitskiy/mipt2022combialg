@@ -17,6 +17,7 @@ permalink: /intro
 
 + Электрические сопротивления в комбинаторике
 + Лемма Линдстрёма, разрезания на доминошки и трёхмерные диаграммы Юнга
++ Теорема Монского о разрезании
 + Группы Коксетера и камеры Вейля
 + Пермутоэдр
 + Разрезания графических зонотопов и матричная теорема Кирхгофа
@@ -31,6 +32,8 @@ permalink: /intro
 + Е. Смирнов, [Диаграммы Юнга, плоские разбиения и знакочередующиеся матрицы](https://users.mccme.ru/smirnoff/papers/dubna14.pdf). _МЦНМО_ (2014).
 
 + Е. Смирнов, [Три взгляда на ацтекский бриллиант](https://www.mccme.ru/free-books/dubna/smirnov-aztec.pdf), _МЦНМО_ (2015).
+
++ P. Monsky, [On dividing a square into triangles](https://www.jstor.org/stable/pdf/2317329.pdf). _The American Mathematical Monthly_ (1970).
 
 + J. Humphreys, [Reflection groups and Coxeter groups](books.google.ru/books?id=ODfjmOeNLMUC). _Cambridge university press_ (1990).
 
