@@ -16,7 +16,7 @@
 title: Комбиалгебра
 email: aleksei.balitskii@phystech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Кружок по алгебраической комбинаторике на Физтехе
+  Кружок по алгебраической комбинаторике
 baseurl: "/mipt2022combialg" # the subpath of your site, e.g. /blog
 url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
 permalink:    /:title
